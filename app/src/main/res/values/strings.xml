@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">imadHistoryAppA1</string>
+    <string name="button1_name">Generate</string>
+    <string name="button2_name">Clear</string>
+</resources>
